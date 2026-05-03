@@ -6,7 +6,7 @@ A real-time IoT water quality monitoring system built with Arduino Uno R4 WiFi a
 
 ## 📸 Preview
 
-![HydroSense Dashboard](./preview.png)
+![HydroSense Dashboard](https://smartbottle-kappa.vercel.app/)
 
 ---
 
